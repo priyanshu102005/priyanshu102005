@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @priyanshu
+<h1 align="center">
+    <marquee behavior="scroll" direction="left">
+        @Priyanshu Kumar!
+    </marquee>
+</h1>- 👋 Hi, I’m @priyanshu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
